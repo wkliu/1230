@@ -28,5 +28,12 @@ git-lessons
 3. 整合開發環境(或編輯器)的 git plugin。  
 4. Git 進階功能(時間不夠)。  
   
-這份說明與投影片都會隨著修改而更新, 請用 git 隨時 pull 新的版本。  
+這份說明與投影片都會隨著修改而更新, 請用 git 隨時 pull 新的版本。 
+
+參考資料:  
+1. http://liam0205.me/attachment/Git/progit.zh.pdf  
+2. https://ihower.tw/git/  
+3. http://www.ossxp.com/doc/git/gitolite.html (如需自己架設內部 Git server)  
+
+
 
